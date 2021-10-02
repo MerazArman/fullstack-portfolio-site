@@ -1,0 +1,17 @@
+.social-design ul li{
+    list-style-type: none;
+    font-size: 1.6em;
+    font-weight: 500;
+    line-height: 1.8em;
+}
+
+.follow{
+
+    padding: 5px 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #1d293a;
+    /* transform-origin: 50%;
+    transform: translateY(-22px); */
+    border-radius: 4px;
+}

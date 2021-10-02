@@ -1,0 +1,22 @@
+/* @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #111A28
+}
+
+
+.btn-resume{
+    padding:10px 20px;
+    background-color:rgb(1, 210, 142);
+    color:aliceblue;
+  }
+.btn-resume:hover{
+    border:2px solid  rgb(1, 210, 142);
+    padding:10px 20px;
+    background-color:#111A28;
+  } */
